@@ -1,0 +1,15 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Blockchain",
+        "value": "Super"
+      },
+      {
+        "trait_type": "TPS",
+        "value": "500k"
+      }
+    ],
+    "description": "The world's fastest blockchain's NFT",
+    "image": "ipfs://QmXc5HNRfWkghXia5D2kC9momoHK4W5L2rgh9EBZYfMLt4",
+    "name": "Super"
+  }
